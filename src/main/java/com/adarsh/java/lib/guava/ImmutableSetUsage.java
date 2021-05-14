@@ -1,4 +1,4 @@
-package com.adarsh.java;
+package com.adarsh.java.lib.guava;
 
 import com.google.common.collect.ImmutableSet;
 
